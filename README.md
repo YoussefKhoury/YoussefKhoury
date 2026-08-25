@@ -32,6 +32,11 @@ A management-ready analytical product connecting delivery performance, supplier 
 
 **Operations & systems:** Microsoft Dynamics 365 Business Central, Xero, purchase orders, supplier coordination, invoicing, payment follow-up and issue tracking.
 
+## Microsoft professional certificates
+
+- [Power BI Data Analyst Professional Certificate](https://youssefkx.github.io/downloads/Youssef-Khoury-Microsoft-Power-BI-Data-Analyst-Certificate.pdf) - completed August 2026
+- [Business Analyst Professional Certificate](https://youssefkx.github.io/downloads/Youssef-Khoury-Microsoft-Business-Analyst-Certificate.pdf) - completed June 2026
+
 ## Current focus
 
 - Building decision-ready reporting for operations, delivery, suppliers and cash exposure.
