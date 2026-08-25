@@ -4,15 +4,15 @@
 
 I turn operational data and process problems into clear reporting, root-cause insight and practical management actions. My background combines hands-on order-to-delivery coordination with Power BI, SQL, Excel, business analysis and ERP-supported operations.
 
-[Portfolio](https://youssefkx.github.io) · [Resume](https://youssefkx.github.io/downloads/Youssef-Khoury-CV.pdf) · [Live Control Tower](https://youssef-order-delivery-control-tower.youssefkhoury01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/youssefhoury/) · [Email](mailto:youssefkhoury01@gmail.com)
+[Portfolio source](https://github.com/YoussefKhoury/youssefkx.github.io) · [Resume](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-CV.pdf) · [Live Control Tower](https://youssef-order-delivery-control-tower.youssefkhoury01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/youssefhoury/) · [Email](mailto:youssefkhoury01@gmail.com)
 
 ## Featured case study
 
 ### Order-to-Delivery Control Tower
 
 <p align="center">
-  <a href="https://youssefkx.github.io/#projects">
-    <img width="980" alt="Order-to-Delivery Control Tower case study" src="https://raw.githubusercontent.com/youssefkx/youssefkx.github.io/main/assets/og.png">
+  <a href="https://github.com/YoussefKhoury/youssefkx.github.io">
+    <img width="980" alt="Order-to-Delivery Control Tower case study" src="https://raw.githubusercontent.com/YoussefKhoury/youssefkx.github.io/main/assets/og.png">
   </a>
 </p>
 
@@ -30,22 +30,22 @@ A management-ready analytical product connecting delivery performance, supplier 
 
 360-invoice finance case focused on aging, overdue exposure, DSO proxy, promise coverage, customer risk and collection priority. Includes a formula-driven workbook, source CSVs, metric definitions and SQL analysis.
 
-- [Case study PDF](https://youssefkx.github.io/downloads/Youssef-Khoury-Receivables-Collections-Case-Study.pdf)
-- [Workbook](https://youssefkx.github.io/downloads/Youssef-Khoury-Receivables-Collections-Command-Center.xlsx)
+- [Case study PDF](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Receivables-Collections-Case-Study.pdf)
+- [Workbook](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Receivables-Collections-Command-Center.xlsx)
 
 ### Supplier Procurement & Delivery Performance
 
 300-purchase-order procurement case measuring spend, OTIF, fill rate, delay, price variance, defects and supplier risk. Includes a supplier scorecard, action queue, source CSVs and SQL analysis.
 
-- [Case study PDF](https://youssefkx.github.io/downloads/Youssef-Khoury-Supplier-Procurement-Case-Study.pdf)
-- [Workbook](https://youssefkx.github.io/downloads/Youssef-Khoury-Supplier-Procurement-Performance.xlsx)
+- [Case study PDF](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Supplier-Procurement-Case-Study.pdf)
+- [Workbook](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Supplier-Procurement-Performance.xlsx)
 
 ### Service Request Workflow — Requirements & UAT
 
 Business-analysis case for a different workflow: validated intake, routing, SLA, escalation, closure, reporting, security and audit. Includes 24 requirements, traceability, 30 UAT cases, RAID controls and a readiness summary.
 
-- [Case study PDF](https://youssefkx.github.io/downloads/Youssef-Khoury-Service-Request-UAT-Case-Study.pdf)
-- [Workbook](https://youssefkx.github.io/downloads/Youssef-Khoury-Service-Request-Requirements-UAT.xlsx)
+- [Case study PDF](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Service-Request-UAT-Case-Study.pdf)
+- [Workbook](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Service-Request-Requirements-UAT.xlsx)
 
 ## What I work with
 
@@ -57,8 +57,8 @@ Business-analysis case for a different workflow: validated intake, routing, SLA,
 
 ## Microsoft professional certificates
 
-- [Power BI Data Analyst Professional Certificate](https://youssefkx.github.io/downloads/Youssef-Khoury-Microsoft-Power-BI-Data-Analyst-Certificate.pdf) - completed August 2026
-- [Business Analyst Professional Certificate](https://youssefkx.github.io/downloads/Youssef-Khoury-Microsoft-Business-Analyst-Certificate.pdf) - completed June 2026
+- [Power BI Data Analyst Professional Certificate](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Microsoft-Power-BI-Data-Analyst-Certificate.pdf) - completed August 2026
+- [Business Analyst Professional Certificate](https://github.com/YoussefKhoury/youssefkx.github.io/blob/main/downloads/Youssef-Khoury-Microsoft-Business-Analyst-Certificate.pdf) - completed June 2026
 
 ## Current focus
 
