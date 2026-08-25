@@ -4,14 +4,14 @@
 
 I turn operational data and process problems into clear reporting, root-cause insight and practical management actions. My background combines hands-on order-to-delivery coordination with Power BI, SQL, Excel, business analysis and ERP-supported operations.
 
-[Portfolio](https://youssefkx.github.io) · [Live Control Tower](https://youssef-order-delivery-control-tower.youssefkhoury01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/youssefhoury/) · [Email](mailto:youssefkhoury01@gmail.com)
+[Portfolio](https://youssefkx.github.io) · [Resume](https://youssefkx.github.io/downloads/Youssef-Khoury-CV.pdf) · [Live Control Tower](https://youssef-order-delivery-control-tower.youssefkhoury01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/youssefhoury/) · [Email](mailto:youssefkhoury01@gmail.com)
 
 ## Featured case study
 
 ### Order-to-Delivery Control Tower
 
 <p align="center">
-  <a href="https://youssefkx.github.io/#work">
+  <a href="https://youssefkx.github.io/#projects">
     <img width="980" alt="Order-to-Delivery Control Tower case study" src="https://raw.githubusercontent.com/youssefkx/youssefkx.github.io/main/assets/og.png">
   </a>
 </p>
