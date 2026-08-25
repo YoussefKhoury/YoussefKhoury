@@ -10,7 +10,11 @@ I turn operational data and process problems into clear reporting, root-cause in
 
 ### Order-to-Delivery Control Tower
 
-[![Order-to-Delivery Control Tower](https://raw.githubusercontent.com/youssefkx/youssefkx.github.io/main/assets/control-tower-overview.png)](https://youssefkx.github.io/#work)
+<p align="center">
+  <a href="https://youssefkx.github.io/#work">
+    <img width="980" alt="Order-to-Delivery Control Tower case study" src="https://raw.githubusercontent.com/youssefkx/youssefkx.github.io/main/assets/og.png">
+  </a>
+</p>
 
 A management-ready analytical product connecting delivery performance, supplier reliability, commercial value and overdue cash. The project includes an interactive dashboard, Power BI report, Excel model, SQL logic, data-quality controls and a complete business-analysis pack.
 
@@ -33,5 +37,3 @@ A management-ready analytical product connecting delivery performance, supplier 
 - Building decision-ready reporting for operations, delivery, suppliers and cash exposure.
 - Translating process issues into measurable requirements and controls.
 - Seeking junior and early-career Data Analyst, Business Analyst, Reporting Analyst and Operations Analyst opportunities.
-
-Based in Keserwan, Lebanon.
