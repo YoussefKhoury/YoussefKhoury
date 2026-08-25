@@ -24,6 +24,29 @@ A management-ready analytical product connecting delivery performance, supplier 
 
 > Dataset is synthetic. Methods, decision rules and deliverables are original portfolio work.
 
+## Additional portfolio cases
+
+### Customer Receivables & Collections Command Center
+
+360-invoice finance case focused on aging, overdue exposure, DSO proxy, promise coverage, customer risk and collection priority. Includes a formula-driven workbook, source CSVs, metric definitions and SQL analysis.
+
+- [Case study PDF](https://youssefkx.github.io/downloads/Youssef-Khoury-Receivables-Collections-Case-Study.pdf)
+- [Workbook](https://youssefkx.github.io/downloads/Youssef-Khoury-Receivables-Collections-Command-Center.xlsx)
+
+### Supplier Procurement & Delivery Performance
+
+300-purchase-order procurement case measuring spend, OTIF, fill rate, delay, price variance, defects and supplier risk. Includes a supplier scorecard, action queue, source CSVs and SQL analysis.
+
+- [Case study PDF](https://youssefkx.github.io/downloads/Youssef-Khoury-Supplier-Procurement-Case-Study.pdf)
+- [Workbook](https://youssefkx.github.io/downloads/Youssef-Khoury-Supplier-Procurement-Performance.xlsx)
+
+### Service Request Workflow — Requirements & UAT
+
+Business-analysis case for a different workflow: validated intake, routing, SLA, escalation, closure, reporting, security and audit. Includes 24 requirements, traceability, 30 UAT cases, RAID controls and a readiness summary.
+
+- [Case study PDF](https://youssefkx.github.io/downloads/Youssef-Khoury-Service-Request-UAT-Case-Study.pdf)
+- [Workbook](https://youssefkx.github.io/downloads/Youssef-Khoury-Service-Request-Requirements-UAT.xlsx)
+
 ## What I work with
 
 **Data & reporting:** Power BI, Power Query, SQL, SQL Server, Excel, PivotTables, data cleaning, KPI design, reconciliation and DAX fundamentals.
