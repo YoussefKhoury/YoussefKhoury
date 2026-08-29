@@ -4,7 +4,7 @@
 
 I turn operational data and process problems into clear reporting, root-cause insight and practical management actions. My background combines hands-on order-to-delivery coordination with Power BI, SQL, Excel, business analysis and ERP-supported operations.
 
-[Portfolio source](https://github.com/YoussefKhoury/YoussefKhoury.github.io) · [Resume](https://github.com/YoussefKhoury/YoussefKhoury.github.io/blob/main/downloads/Youssef-Khoury-CV.pdf) · [Live Control Tower](https://youssef-order-delivery-control-tower.youssefkhoury01.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/youssefhoury/) · [Email](mailto:youssefkhoury01@gmail.com)
+[Portfolio source](https://github.com/YoussefKhoury/YoussefKhoury.github.io) · [Resume](https://github.com/YoussefKhoury/YoussefKhoury.github.io/blob/main/downloads/Youssef-Khoury-CV.pdf) · [Live Control Tower](https://youssefkhoury.me/dashboard/) · [LinkedIn](https://www.linkedin.com/in/youssefhoury/) · [Email](mailto:youssefkhoury01@gmail.com)
 
 ## Featured case study
 
