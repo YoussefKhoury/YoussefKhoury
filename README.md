@@ -14,7 +14,7 @@ I build the systems operations teams run on: order and supplier tracking, pricin
   </a>
 </p>
 
-The hub behind a lighting distributor's orders, built and run end to end. Every 15 minutes it reads supplier and client emails, updates orders, shipments and requests, and drafts quotations and purchase orders. It never sends email: client replies wait as drafts for a person.
+The hub behind a lighting distributor's orders, built and run end to end. Every 15 minutes it reads supplier and client emails, updates orders, shipments and requests, prices quotations and prepares Xero invoice drafts. It never sends email: client replies wait as drafts for a person.
 
 | Inbox cycle | Price lookup | Order stages | Emails it can send |
 |---:|---:|---:|---:|
