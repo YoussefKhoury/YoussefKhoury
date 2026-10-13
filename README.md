@@ -67,7 +67,8 @@ Business-analysis case for a different workflow: validated intake, routing, SLA,
 
 **Operations:** Microsoft Dynamics 365 Business Central, Xero, purchase orders, supplier coordination, invoicing, payment follow-up and issue tracking.
 
-## Microsoft professional certificates
+## Certificates
 
-- [Power BI Data Analyst Professional Certificate](https://youssefkhoury.me/downloads/Youssef-Khoury-Microsoft-Power-BI-Data-Analyst-Certificate.pdf) - completed August 2026
-- [Business Analyst Professional Certificate](https://youssefkhoury.me/downloads/Youssef-Khoury-Microsoft-Business-Analyst-Certificate.pdf) - completed June 2026
+- [Microsoft Power BI Data Analyst Professional Certificate](https://youssefkhoury.me/downloads/Youssef-Khoury-Microsoft-Power-BI-Data-Analyst-Certificate.pdf) - completed August 2026
+- [Microsoft Business Analyst Professional Certificate](https://youssefkhoury.me/downloads/Youssef-Khoury-Microsoft-Business-Analyst-Certificate.pdf) - completed June 2026
+- Building with Claude API (Anthropic) - completed October 2026
