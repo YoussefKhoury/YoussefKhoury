@@ -71,4 +71,4 @@ Business-analysis case for a different workflow: validated intake, routing, SLA,
 
 - [Microsoft Power BI Data Analyst Professional Certificate](https://youssefkhoury.me/downloads/Youssef-Khoury-Microsoft-Power-BI-Data-Analyst-Certificate.pdf) - completed August 2026
 - [Microsoft Business Analyst Professional Certificate](https://youssefkhoury.me/downloads/Youssef-Khoury-Microsoft-Business-Analyst-Certificate.pdf) - completed June 2026
-- Building with Claude API (Anthropic) - completed October 2026
+- [Building with Claude API](https://academy.claude.com/verify/88246b8c234070abfa8ca38bca20aff1) (Anthropic) - completed October 2026
